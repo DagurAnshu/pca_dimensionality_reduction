@@ -130,7 +130,7 @@ Overall, PCA improves generalization by reducing noise and feature redundancy.
 
 ## Project Structure
 Dimensionality_Reduction/
-1. PCA_Breast_Cancer_Data.py
+1. pca_breast_cancer.py
 2. README.md
 
 ---
